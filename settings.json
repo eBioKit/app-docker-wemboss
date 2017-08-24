@@ -1,0 +1,35 @@
+[
+	{
+		"name": "INSTANCE_NAME",
+		"label": "Instance name",
+		"type": "text",
+		"description": "The name for the new instance",
+		"default": "wemboss"
+	},
+	{
+		"name": "INSTANCE_PORT_1",
+		"label": "Port number",
+		"type": "number",
+		"description": "The port number for the new instance",
+		"default": 8092
+	},
+	{
+		"name": "INSTANCE_URL",
+		"label": "URL",
+		"type": "text",
+		"description": "The URL for the new instance",
+		"default": "/wemboss"
+	},
+	{
+		"name": "ADMIN_USER",
+		"label": "Admin account:",
+		"type": "text",
+		"description": "The admin account used for administrate your wEMBOSS server."
+	},
+	{
+		"name": "ADMIN_PASS",
+		"label": "Admin password:",
+		"type": "password",
+		"description": "The password for the admin account."
+	}
+]

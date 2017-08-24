@@ -1,0 +1,9 @@
+{
+	"service":"wemboss",
+	"version":"0.1",
+	"title":"wEMBOSS",
+	"description":"wEMBOSS is a simple and powerful web interface for running EMBOSS programs.",
+	"categories":"analysis",
+	"website":"/wemboss",
+	"dockers" : "fikipollo/wemboss"
+}
