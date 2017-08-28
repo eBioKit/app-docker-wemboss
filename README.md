@@ -24,8 +24,8 @@ The container is publicly available as `ebiokit/docker-wemboss`. The recommended
 This procedure starts wEMBOSS in a standard virtualised environment.
 
 - Install [docker](https://docs.docker.com/engine/installation/) for your system if not previously done.
-- `docker run -it -p 8042:8042 fikipollo/wemboss`
-- wEMBOSS will be available at [http://localhost:8042/](http://localhost:8042/)
+- `docker run -it -p 8092:8092 fikipollo/wemboss`
+- wEMBOSS will be available at [http://localhost:8092/](http://localhost:8092/)
 
 ### About the eBioKit project
 
