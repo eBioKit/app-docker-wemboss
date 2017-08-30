@@ -14,13 +14,6 @@
 		"default": 8092
 	},
 	{
-		"name": "INSTANCE_URL",
-		"label": "URL",
-		"type": "text",
-		"description": "The URL for the new instance",
-		"default": "/wemboss"
-	},
-	{
 		"name": "ADMIN_USER",
 		"label": "Admin account:",
 		"type": "text",
