@@ -11,7 +11,7 @@ version: '2'
 services:
 
     $${INSTANCE_NAME}-wemboss:
-      image: fikipollo/wemboss
+      image: fikipollo/wemboss:0.9
       container_name: $${INSTANCE_NAME}-wemboss
       environment:
         - ADMIN_USER=$${ADMIN_USER}

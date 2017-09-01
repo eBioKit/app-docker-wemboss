@@ -1,9 +1,9 @@
 {
 	"service":"wemboss",
-	"version":"0.1",
+	"version":"0.9",
 	"title":"wEMBOSS",
 	"description":"wEMBOSS is a simple and powerful web interface for running EMBOSS programs.",
 	"categories":"analysis,bioinformatics,alignment,phylogeny,web-based",
 	"website":"http://77.235.253.122/wEMBOSS/",
-	"dockers" : "fikipollo/wemboss"
+	"dockers" : "fikipollo/wemboss:0.9,busybox"
 }
